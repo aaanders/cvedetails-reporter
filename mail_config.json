@@ -1,0 +1,10 @@
+{
+	"from_address": "test@example.com", 
+	"host": "mail.example.com", 
+	"password": "password", 
+	"port": 587, 
+	"starttls-enable": true,
+	"to_addresses": [
+		"subscriber@example.com"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"url": "http://www.cvedetails.com/json-feed.php",
+	"products": {
+		"apache_http_server": {
+			"vendor_id": 45,
+			"product_id": 66
+		},
+		"apache_mod_jk": {
+			"vendor_id": 45,
+			"product_id": 16410
+		},
+	},
+	"params": {
+		"numrows": 30,
+		"orderby": 2,
+		"cvsscoremin": 0
+	}
+}
