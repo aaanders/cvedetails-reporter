@@ -1,2 +1,9 @@
+#compiled python
 *pyc
+
+#the database
 cve.db*
+
+#emacs auto saved files
+.#*
+*#
