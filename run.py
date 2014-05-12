@@ -27,7 +27,7 @@ def save_records(vulnerabilities):
     """
     Saves records that didn't existed, or needed updating. Returns the ones persisted.
     """
-    con = sqlite3.connect("/home/anders/cvedetails/cve.db")
+    con = sqlite3.connect(base_directory + "/cve.db")
     cur = con.cursor()
     persisted = []
     for record in vulnerabilities:
