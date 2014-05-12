@@ -8,7 +8,7 @@
 		"apache_mod_jk": {
 			"vendor_id": 45,
 			"product_id": 16410
-		},
+		}
 	},
 	"params": {
 		"numrows": 30,
