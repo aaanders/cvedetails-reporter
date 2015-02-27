@@ -13,6 +13,6 @@
 	"params": {
 		"numrows": 30,
 		"orderby": 2,
-		"cvsscoremin": 0
+		"cvssscoremin": 0
 	}
 }
