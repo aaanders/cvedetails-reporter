@@ -1,5 +1,5 @@
 {
-	"url": "http://www.cvedetails.com/json-feed.php",
+	"url": "https://www.cvedetails.com/json-feed.php",
 	"products": {
 		"apache_http_server": {
 			"vendor_id": 45,
